@@ -48,7 +48,7 @@ QtQuick.Layouts 1.15
  
 3.  Build and Run
 
-    Open the .pro or CMakeLists.txt file.
+    Open the .pro.
 
     Select a Qt 6.5+ Kit.
 
@@ -63,7 +63,8 @@ Adding task form
 
 Choosing background color dialog for task 
 
-![image](https://github.com/user-attachments/assets/32cee891-6235-4c65-8b5f-d1395699d2ba)
+![image](https://github.com/user-attachments/assets/5b9231c6-c480-470c-9346-0cad7c12b84f)
+
 
 
 
